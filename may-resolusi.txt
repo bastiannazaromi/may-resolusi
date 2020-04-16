@@ -1,5 +1,6 @@
 Rencana kedepan :
-- Mahir PHP ( CodeIgniter & Laravel )
-- Mahir Frontend ( ReactJS / vueJS )
-- Bekerja dengan tim
-- Mempunyai pasangan hidup
+- Mahir Backend Developer ( PHP / NodeJS )
+- Mahir Frontend Developer ( JS )
+- Bekerja sebagai IT / Programmer di Instansi Pemerintahan
+- Married
+- Punya Software House sendiri
