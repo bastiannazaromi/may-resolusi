@@ -1,2 +1,2 @@
 # may-resolusi
-Repositori untuk menyimpan rencana projek MAY kedepan
+Repositori untuk menyimpan rencana projek May Komputer kedepan
